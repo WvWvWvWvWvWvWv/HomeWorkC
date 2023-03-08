@@ -1,0 +1,15 @@
+/Users/wv/Desktop/Учеба/HomeWorkC/sicharp/obj/Debug/net7.0/sicharp.csproj.AssemblyReference.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/sicharp/obj/Debug/net7.0/sicharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wv/Desktop/Учеба/HomeWorkC/sicharp/obj/Debug/net7.0/sicharp.AssemblyInfoInputs.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/sicharp/obj/Debug/net7.0/sicharp.AssemblyInfo.cs
+/Users/wv/Desktop/Учеба/HomeWorkC/sicharp/obj/Debug/net7.0/sicharp.csproj.CoreCompileInputs.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/sicharp/bin/Debug/net7.0/sicharp
+/Users/wv/Desktop/Учеба/HomeWorkC/sicharp/bin/Debug/net7.0/sicharp.deps.json
+/Users/wv/Desktop/Учеба/HomeWorkC/sicharp/bin/Debug/net7.0/sicharp.runtimeconfig.json
+/Users/wv/Desktop/Учеба/HomeWorkC/sicharp/bin/Debug/net7.0/sicharp.dll
+/Users/wv/Desktop/Учеба/HomeWorkC/sicharp/bin/Debug/net7.0/sicharp.pdb
+/Users/wv/Desktop/Учеба/HomeWorkC/sicharp/obj/Debug/net7.0/sicharp.dll
+/Users/wv/Desktop/Учеба/HomeWorkC/sicharp/obj/Debug/net7.0/refint/sicharp.dll
+/Users/wv/Desktop/Учеба/HomeWorkC/sicharp/obj/Debug/net7.0/sicharp.pdb
+/Users/wv/Desktop/Учеба/HomeWorkC/sicharp/obj/Debug/net7.0/sicharp.genruntimeconfig.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/sicharp/obj/Debug/net7.0/ref/sicharp.dll
