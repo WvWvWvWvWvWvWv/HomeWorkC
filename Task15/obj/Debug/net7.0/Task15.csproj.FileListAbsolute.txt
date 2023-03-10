@@ -1,0 +1,15 @@
+/Users/wv/Desktop/Учеба/HomeWorkC/Task15/bin/Debug/net7.0/Task15
+/Users/wv/Desktop/Учеба/HomeWorkC/Task15/bin/Debug/net7.0/Task15.deps.json
+/Users/wv/Desktop/Учеба/HomeWorkC/Task15/bin/Debug/net7.0/Task15.runtimeconfig.json
+/Users/wv/Desktop/Учеба/HomeWorkC/Task15/bin/Debug/net7.0/Task15.dll
+/Users/wv/Desktop/Учеба/HomeWorkC/Task15/bin/Debug/net7.0/Task15.pdb
+/Users/wv/Desktop/Учеба/HomeWorkC/Task15/obj/Debug/net7.0/Task15.csproj.AssemblyReference.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/Task15/obj/Debug/net7.0/Task15.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wv/Desktop/Учеба/HomeWorkC/Task15/obj/Debug/net7.0/Task15.AssemblyInfoInputs.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/Task15/obj/Debug/net7.0/Task15.AssemblyInfo.cs
+/Users/wv/Desktop/Учеба/HomeWorkC/Task15/obj/Debug/net7.0/Task15.csproj.CoreCompileInputs.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/Task15/obj/Debug/net7.0/Task15.dll
+/Users/wv/Desktop/Учеба/HomeWorkC/Task15/obj/Debug/net7.0/refint/Task15.dll
+/Users/wv/Desktop/Учеба/HomeWorkC/Task15/obj/Debug/net7.0/Task15.pdb
+/Users/wv/Desktop/Учеба/HomeWorkC/Task15/obj/Debug/net7.0/Task15.genruntimeconfig.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/Task15/obj/Debug/net7.0/ref/Task15.dll
