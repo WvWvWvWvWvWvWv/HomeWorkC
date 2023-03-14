@@ -6,7 +6,7 @@ while (a<10000 || a>99999){
     a = Convert.ToInt32(Console.ReadLine());
 }
 if (a/10000%10==a%10 || a/1000%10==a/10%10){
-    System.Console.WriteLine("True");
+    System.Console.WriteLine("Число является палиндромом");
 }
 else
-    System.Console.WriteLine("False");
+    System.Console.WriteLine("Число не является палиндромом");
