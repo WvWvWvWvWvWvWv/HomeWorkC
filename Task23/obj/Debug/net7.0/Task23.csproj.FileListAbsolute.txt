@@ -1,0 +1,15 @@
+/Users/wv/Desktop/Учеба/HomeWorkC/Task23/obj/Debug/net7.0/Task23.csproj.AssemblyReference.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/Task23/obj/Debug/net7.0/Task23.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wv/Desktop/Учеба/HomeWorkC/Task23/obj/Debug/net7.0/Task23.AssemblyInfoInputs.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/Task23/obj/Debug/net7.0/Task23.AssemblyInfo.cs
+/Users/wv/Desktop/Учеба/HomeWorkC/Task23/obj/Debug/net7.0/Task23.csproj.CoreCompileInputs.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/Task23/bin/Debug/net7.0/Task23
+/Users/wv/Desktop/Учеба/HomeWorkC/Task23/bin/Debug/net7.0/Task23.deps.json
+/Users/wv/Desktop/Учеба/HomeWorkC/Task23/bin/Debug/net7.0/Task23.runtimeconfig.json
+/Users/wv/Desktop/Учеба/HomeWorkC/Task23/bin/Debug/net7.0/Task23.dll
+/Users/wv/Desktop/Учеба/HomeWorkC/Task23/bin/Debug/net7.0/Task23.pdb
+/Users/wv/Desktop/Учеба/HomeWorkC/Task23/obj/Debug/net7.0/Task23.dll
+/Users/wv/Desktop/Учеба/HomeWorkC/Task23/obj/Debug/net7.0/refint/Task23.dll
+/Users/wv/Desktop/Учеба/HomeWorkC/Task23/obj/Debug/net7.0/Task23.pdb
+/Users/wv/Desktop/Учеба/HomeWorkC/Task23/obj/Debug/net7.0/Task23.genruntimeconfig.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/Task23/obj/Debug/net7.0/ref/Task23.dll
