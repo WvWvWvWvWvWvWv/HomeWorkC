@@ -1,0 +1,15 @@
+/Users/wv/Desktop/Учеба/HomeWorkC/Task21/bin/Debug/net7.0/Task21
+/Users/wv/Desktop/Учеба/HomeWorkC/Task21/bin/Debug/net7.0/Task21.deps.json
+/Users/wv/Desktop/Учеба/HomeWorkC/Task21/bin/Debug/net7.0/Task21.runtimeconfig.json
+/Users/wv/Desktop/Учеба/HomeWorkC/Task21/bin/Debug/net7.0/Task21.dll
+/Users/wv/Desktop/Учеба/HomeWorkC/Task21/bin/Debug/net7.0/Task21.pdb
+/Users/wv/Desktop/Учеба/HomeWorkC/Task21/obj/Debug/net7.0/Task21.csproj.AssemblyReference.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/Task21/obj/Debug/net7.0/Task21.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wv/Desktop/Учеба/HomeWorkC/Task21/obj/Debug/net7.0/Task21.AssemblyInfoInputs.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/Task21/obj/Debug/net7.0/Task21.AssemblyInfo.cs
+/Users/wv/Desktop/Учеба/HomeWorkC/Task21/obj/Debug/net7.0/Task21.csproj.CoreCompileInputs.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/Task21/obj/Debug/net7.0/Task21.dll
+/Users/wv/Desktop/Учеба/HomeWorkC/Task21/obj/Debug/net7.0/refint/Task21.dll
+/Users/wv/Desktop/Учеба/HomeWorkC/Task21/obj/Debug/net7.0/Task21.pdb
+/Users/wv/Desktop/Учеба/HomeWorkC/Task21/obj/Debug/net7.0/Task21.genruntimeconfig.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/Task21/obj/Debug/net7.0/ref/Task21.dll
