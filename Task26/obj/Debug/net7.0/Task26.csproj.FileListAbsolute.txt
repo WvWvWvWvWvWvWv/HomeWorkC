@@ -1,0 +1,15 @@
+/Users/wv/Desktop/Учеба/HomeWorkC/Task26/bin/Debug/net7.0/Task26
+/Users/wv/Desktop/Учеба/HomeWorkC/Task26/bin/Debug/net7.0/Task26.deps.json
+/Users/wv/Desktop/Учеба/HomeWorkC/Task26/bin/Debug/net7.0/Task26.runtimeconfig.json
+/Users/wv/Desktop/Учеба/HomeWorkC/Task26/bin/Debug/net7.0/Task26.dll
+/Users/wv/Desktop/Учеба/HomeWorkC/Task26/bin/Debug/net7.0/Task26.pdb
+/Users/wv/Desktop/Учеба/HomeWorkC/Task26/obj/Debug/net7.0/Task26.csproj.AssemblyReference.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/Task26/obj/Debug/net7.0/Task26.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wv/Desktop/Учеба/HomeWorkC/Task26/obj/Debug/net7.0/Task26.AssemblyInfoInputs.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/Task26/obj/Debug/net7.0/Task26.AssemblyInfo.cs
+/Users/wv/Desktop/Учеба/HomeWorkC/Task26/obj/Debug/net7.0/Task26.csproj.CoreCompileInputs.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/Task26/obj/Debug/net7.0/Task26.dll
+/Users/wv/Desktop/Учеба/HomeWorkC/Task26/obj/Debug/net7.0/refint/Task26.dll
+/Users/wv/Desktop/Учеба/HomeWorkC/Task26/obj/Debug/net7.0/Task26.pdb
+/Users/wv/Desktop/Учеба/HomeWorkC/Task26/obj/Debug/net7.0/Task26.genruntimeconfig.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/Task26/obj/Debug/net7.0/ref/Task26.dll

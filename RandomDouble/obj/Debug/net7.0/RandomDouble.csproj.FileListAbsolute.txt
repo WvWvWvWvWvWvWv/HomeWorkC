@@ -1,0 +1,15 @@
+/Users/wv/Desktop/Учеба/HomeWorkC/RandomDouble/bin/Debug/net7.0/RandomDouble
+/Users/wv/Desktop/Учеба/HomeWorkC/RandomDouble/bin/Debug/net7.0/RandomDouble.deps.json
+/Users/wv/Desktop/Учеба/HomeWorkC/RandomDouble/bin/Debug/net7.0/RandomDouble.runtimeconfig.json
+/Users/wv/Desktop/Учеба/HomeWorkC/RandomDouble/bin/Debug/net7.0/RandomDouble.dll
+/Users/wv/Desktop/Учеба/HomeWorkC/RandomDouble/bin/Debug/net7.0/RandomDouble.pdb
+/Users/wv/Desktop/Учеба/HomeWorkC/RandomDouble/obj/Debug/net7.0/RandomDouble.csproj.AssemblyReference.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/RandomDouble/obj/Debug/net7.0/RandomDouble.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wv/Desktop/Учеба/HomeWorkC/RandomDouble/obj/Debug/net7.0/RandomDouble.AssemblyInfoInputs.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/RandomDouble/obj/Debug/net7.0/RandomDouble.AssemblyInfo.cs
+/Users/wv/Desktop/Учеба/HomeWorkC/RandomDouble/obj/Debug/net7.0/RandomDouble.csproj.CoreCompileInputs.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/RandomDouble/obj/Debug/net7.0/RandomDouble.dll
+/Users/wv/Desktop/Учеба/HomeWorkC/RandomDouble/obj/Debug/net7.0/refint/RandomDouble.dll
+/Users/wv/Desktop/Учеба/HomeWorkC/RandomDouble/obj/Debug/net7.0/RandomDouble.pdb
+/Users/wv/Desktop/Учеба/HomeWorkC/RandomDouble/obj/Debug/net7.0/RandomDouble.genruntimeconfig.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/RandomDouble/obj/Debug/net7.0/ref/RandomDouble.dll
