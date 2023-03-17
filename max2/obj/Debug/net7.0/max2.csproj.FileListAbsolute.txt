@@ -1,0 +1,15 @@
+/Users/wv/Desktop/Учеба/HomeWorkC/max2/bin/Debug/net7.0/max2
+/Users/wv/Desktop/Учеба/HomeWorkC/max2/bin/Debug/net7.0/max2.deps.json
+/Users/wv/Desktop/Учеба/HomeWorkC/max2/bin/Debug/net7.0/max2.runtimeconfig.json
+/Users/wv/Desktop/Учеба/HomeWorkC/max2/bin/Debug/net7.0/max2.dll
+/Users/wv/Desktop/Учеба/HomeWorkC/max2/bin/Debug/net7.0/max2.pdb
+/Users/wv/Desktop/Учеба/HomeWorkC/max2/obj/Debug/net7.0/max2.csproj.AssemblyReference.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/max2/obj/Debug/net7.0/max2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wv/Desktop/Учеба/HomeWorkC/max2/obj/Debug/net7.0/max2.AssemblyInfoInputs.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/max2/obj/Debug/net7.0/max2.AssemblyInfo.cs
+/Users/wv/Desktop/Учеба/HomeWorkC/max2/obj/Debug/net7.0/max2.csproj.CoreCompileInputs.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/max2/obj/Debug/net7.0/max2.dll
+/Users/wv/Desktop/Учеба/HomeWorkC/max2/obj/Debug/net7.0/refint/max2.dll
+/Users/wv/Desktop/Учеба/HomeWorkC/max2/obj/Debug/net7.0/max2.pdb
+/Users/wv/Desktop/Учеба/HomeWorkC/max2/obj/Debug/net7.0/max2.genruntimeconfig.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/max2/obj/Debug/net7.0/ref/max2.dll
