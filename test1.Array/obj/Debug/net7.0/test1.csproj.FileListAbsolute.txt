@@ -1,0 +1,15 @@
+/Users/wv/Desktop/Учеба/HomeWorkC/test1/obj/Debug/net7.0/test1.csproj.AssemblyReference.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/test1/obj/Debug/net7.0/test1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wv/Desktop/Учеба/HomeWorkC/test1/obj/Debug/net7.0/test1.AssemblyInfoInputs.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/test1/obj/Debug/net7.0/test1.AssemblyInfo.cs
+/Users/wv/Desktop/Учеба/HomeWorkC/test1/obj/Debug/net7.0/test1.csproj.CoreCompileInputs.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/test1/bin/Debug/net7.0/test1
+/Users/wv/Desktop/Учеба/HomeWorkC/test1/bin/Debug/net7.0/test1.deps.json
+/Users/wv/Desktop/Учеба/HomeWorkC/test1/bin/Debug/net7.0/test1.runtimeconfig.json
+/Users/wv/Desktop/Учеба/HomeWorkC/test1/bin/Debug/net7.0/test1.dll
+/Users/wv/Desktop/Учеба/HomeWorkC/test1/bin/Debug/net7.0/test1.pdb
+/Users/wv/Desktop/Учеба/HomeWorkC/test1/obj/Debug/net7.0/test1.dll
+/Users/wv/Desktop/Учеба/HomeWorkC/test1/obj/Debug/net7.0/refint/test1.dll
+/Users/wv/Desktop/Учеба/HomeWorkC/test1/obj/Debug/net7.0/test1.pdb
+/Users/wv/Desktop/Учеба/HomeWorkC/test1/obj/Debug/net7.0/test1.genruntimeconfig.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/test1/obj/Debug/net7.0/ref/test1.dll

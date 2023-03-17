@@ -1,0 +1,15 @@
+/Users/wv/Desktop/Учеба/HomeWorkC/Task24/obj/Debug/net7.0/Task24.csproj.AssemblyReference.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/Task24/obj/Debug/net7.0/Task24.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wv/Desktop/Учеба/HomeWorkC/Task24/obj/Debug/net7.0/Task24.AssemblyInfoInputs.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/Task24/obj/Debug/net7.0/Task24.AssemblyInfo.cs
+/Users/wv/Desktop/Учеба/HomeWorkC/Task24/obj/Debug/net7.0/Task24.csproj.CoreCompileInputs.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/Task24/bin/Debug/net7.0/Task24
+/Users/wv/Desktop/Учеба/HomeWorkC/Task24/bin/Debug/net7.0/Task24.deps.json
+/Users/wv/Desktop/Учеба/HomeWorkC/Task24/bin/Debug/net7.0/Task24.runtimeconfig.json
+/Users/wv/Desktop/Учеба/HomeWorkC/Task24/bin/Debug/net7.0/Task24.dll
+/Users/wv/Desktop/Учеба/HomeWorkC/Task24/bin/Debug/net7.0/Task24.pdb
+/Users/wv/Desktop/Учеба/HomeWorkC/Task24/obj/Debug/net7.0/Task24.dll
+/Users/wv/Desktop/Учеба/HomeWorkC/Task24/obj/Debug/net7.0/refint/Task24.dll
+/Users/wv/Desktop/Учеба/HomeWorkC/Task24/obj/Debug/net7.0/Task24.pdb
+/Users/wv/Desktop/Учеба/HomeWorkC/Task24/obj/Debug/net7.0/Task24.genruntimeconfig.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/Task24/obj/Debug/net7.0/ref/Task24.dll
