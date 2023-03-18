@@ -1,5 +1,12 @@
 ﻿Console.Clear();
-int []array={5,3,7,4,6};
+// int []array={5,3,7,4,6};
+int [] array = new int[8];
+Random random = new Random();
+int z = 0;
+while (z < array.Length){
+    array[z]=random.Next(0,10);
+    Console.Write($"{array[z]}, ");
+    z++;}
 System.Console.WriteLine("Vvedite chislo: ");
 int K = Convert.ToInt32(Console.ReadLine());
 int i = 0;
