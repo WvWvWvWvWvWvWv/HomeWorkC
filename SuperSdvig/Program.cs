@@ -1,13 +1,15 @@
 ﻿Console.Clear();
-// int []array={5,3,7,4,6};
-int [] array = new int[8];
+// int []array={5,3,7,4,6}; 
+Console.WriteLine("Введите количество чисел: ");
+int n = Convert.ToInt32(Console.ReadLine());
+int [] array = new int[n];
 Random random = new Random();
 int z = 0;
 while (z < array.Length){
     array[z]=random.Next(0,10);
     Console.Write($"{array[z]}, ");
     z++;}
-System.Console.WriteLine("Vvedite chislo: ");
+System.Console.WriteLine(" Сколько раз сдвинуть последовательность чисел? ");
 int K = Convert.ToInt32(Console.ReadLine());
 int i = 0;
 int j = 0;
