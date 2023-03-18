@@ -1,0 +1,15 @@
+/Users/wv/Desktop/Учеба/HomeWorkC/Task27/bin/Debug/net7.0/Task27
+/Users/wv/Desktop/Учеба/HomeWorkC/Task27/bin/Debug/net7.0/Task27.deps.json
+/Users/wv/Desktop/Учеба/HomeWorkC/Task27/bin/Debug/net7.0/Task27.runtimeconfig.json
+/Users/wv/Desktop/Учеба/HomeWorkC/Task27/bin/Debug/net7.0/Task27.dll
+/Users/wv/Desktop/Учеба/HomeWorkC/Task27/bin/Debug/net7.0/Task27.pdb
+/Users/wv/Desktop/Учеба/HomeWorkC/Task27/obj/Debug/net7.0/Task27.csproj.AssemblyReference.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/Task27/obj/Debug/net7.0/Task27.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wv/Desktop/Учеба/HomeWorkC/Task27/obj/Debug/net7.0/Task27.AssemblyInfoInputs.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/Task27/obj/Debug/net7.0/Task27.AssemblyInfo.cs
+/Users/wv/Desktop/Учеба/HomeWorkC/Task27/obj/Debug/net7.0/Task27.csproj.CoreCompileInputs.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/Task27/obj/Debug/net7.0/Task27.dll
+/Users/wv/Desktop/Учеба/HomeWorkC/Task27/obj/Debug/net7.0/refint/Task27.dll
+/Users/wv/Desktop/Учеба/HomeWorkC/Task27/obj/Debug/net7.0/Task27.pdb
+/Users/wv/Desktop/Учеба/HomeWorkC/Task27/obj/Debug/net7.0/Task27.genruntimeconfig.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/Task27/obj/Debug/net7.0/ref/Task27.dll
