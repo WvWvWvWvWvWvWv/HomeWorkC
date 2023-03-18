@@ -9,7 +9,7 @@ while (z < array.Length){
     array[z]=random.Next(0,10);
     Console.Write($"{array[z]}, ");
     z++;}
-System.Console.WriteLine(" Сколько раз сдвинуть последовательность чисел? ");
+System.Console.WriteLine("\nСколько раз сдвинуть последовательность чисел? ");
 int K = Convert.ToInt32(Console.ReadLine());
 int i = 0;
 int j = 0;
