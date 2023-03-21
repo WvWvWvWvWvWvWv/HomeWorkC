@@ -1,0 +1,15 @@
+/Users/wv/Desktop/Учеба/HomeWorkC/Task38/bin/Debug/net7.0/Task38
+/Users/wv/Desktop/Учеба/HomeWorkC/Task38/bin/Debug/net7.0/Task38.deps.json
+/Users/wv/Desktop/Учеба/HomeWorkC/Task38/bin/Debug/net7.0/Task38.runtimeconfig.json
+/Users/wv/Desktop/Учеба/HomeWorkC/Task38/bin/Debug/net7.0/Task38.dll
+/Users/wv/Desktop/Учеба/HomeWorkC/Task38/bin/Debug/net7.0/Task38.pdb
+/Users/wv/Desktop/Учеба/HomeWorkC/Task38/obj/Debug/net7.0/Task38.csproj.AssemblyReference.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/Task38/obj/Debug/net7.0/Task38.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wv/Desktop/Учеба/HomeWorkC/Task38/obj/Debug/net7.0/Task38.AssemblyInfoInputs.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/Task38/obj/Debug/net7.0/Task38.AssemblyInfo.cs
+/Users/wv/Desktop/Учеба/HomeWorkC/Task38/obj/Debug/net7.0/Task38.csproj.CoreCompileInputs.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/Task38/obj/Debug/net7.0/Task38.dll
+/Users/wv/Desktop/Учеба/HomeWorkC/Task38/obj/Debug/net7.0/refint/Task38.dll
+/Users/wv/Desktop/Учеба/HomeWorkC/Task38/obj/Debug/net7.0/Task38.pdb
+/Users/wv/Desktop/Учеба/HomeWorkC/Task38/obj/Debug/net7.0/Task38.genruntimeconfig.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/Task38/obj/Debug/net7.0/ref/Task38.dll
