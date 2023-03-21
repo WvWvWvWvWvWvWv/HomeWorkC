@@ -1,0 +1,15 @@
+/Users/wv/Desktop/Учеба/HomeWorkC/Task34/obj/Debug/net7.0/Task34.csproj.AssemblyReference.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/Task34/obj/Debug/net7.0/Task34.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wv/Desktop/Учеба/HomeWorkC/Task34/obj/Debug/net7.0/Task34.AssemblyInfoInputs.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/Task34/obj/Debug/net7.0/Task34.AssemblyInfo.cs
+/Users/wv/Desktop/Учеба/HomeWorkC/Task34/obj/Debug/net7.0/Task34.csproj.CoreCompileInputs.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/Task34/bin/Debug/net7.0/Task34
+/Users/wv/Desktop/Учеба/HomeWorkC/Task34/bin/Debug/net7.0/Task34.deps.json
+/Users/wv/Desktop/Учеба/HomeWorkC/Task34/bin/Debug/net7.0/Task34.runtimeconfig.json
+/Users/wv/Desktop/Учеба/HomeWorkC/Task34/bin/Debug/net7.0/Task34.dll
+/Users/wv/Desktop/Учеба/HomeWorkC/Task34/bin/Debug/net7.0/Task34.pdb
+/Users/wv/Desktop/Учеба/HomeWorkC/Task34/obj/Debug/net7.0/Task34.dll
+/Users/wv/Desktop/Учеба/HomeWorkC/Task34/obj/Debug/net7.0/refint/Task34.dll
+/Users/wv/Desktop/Учеба/HomeWorkC/Task34/obj/Debug/net7.0/Task34.pdb
+/Users/wv/Desktop/Учеба/HomeWorkC/Task34/obj/Debug/net7.0/Task34.genruntimeconfig.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/Task34/obj/Debug/net7.0/ref/Task34.dll
