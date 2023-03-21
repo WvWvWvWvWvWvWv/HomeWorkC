@@ -1,0 +1,15 @@
+/Users/wv/Desktop/Учеба/HomeWorkC/Task35/obj/Debug/net7.0/Task35.csproj.AssemblyReference.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/Task35/obj/Debug/net7.0/Task35.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wv/Desktop/Учеба/HomeWorkC/Task35/obj/Debug/net7.0/Task35.AssemblyInfoInputs.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/Task35/obj/Debug/net7.0/Task35.AssemblyInfo.cs
+/Users/wv/Desktop/Учеба/HomeWorkC/Task35/obj/Debug/net7.0/Task35.csproj.CoreCompileInputs.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/Task35/bin/Debug/net7.0/Task35
+/Users/wv/Desktop/Учеба/HomeWorkC/Task35/bin/Debug/net7.0/Task35.deps.json
+/Users/wv/Desktop/Учеба/HomeWorkC/Task35/bin/Debug/net7.0/Task35.runtimeconfig.json
+/Users/wv/Desktop/Учеба/HomeWorkC/Task35/bin/Debug/net7.0/Task35.dll
+/Users/wv/Desktop/Учеба/HomeWorkC/Task35/bin/Debug/net7.0/Task35.pdb
+/Users/wv/Desktop/Учеба/HomeWorkC/Task35/obj/Debug/net7.0/Task35.dll
+/Users/wv/Desktop/Учеба/HomeWorkC/Task35/obj/Debug/net7.0/refint/Task35.dll
+/Users/wv/Desktop/Учеба/HomeWorkC/Task35/obj/Debug/net7.0/Task35.pdb
+/Users/wv/Desktop/Учеба/HomeWorkC/Task35/obj/Debug/net7.0/Task35.genruntimeconfig.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/Task35/obj/Debug/net7.0/ref/Task35.dll
