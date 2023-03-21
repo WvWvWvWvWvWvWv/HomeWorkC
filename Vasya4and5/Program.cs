@@ -39,7 +39,7 @@ string Bolshe4ILI5(int[] array)
             count2+=1;
         }
     }
-    if(count1>count2)
+    if(count1>=count2)
     {
         return "yes";
     }
