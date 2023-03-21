@@ -41,11 +41,11 @@ string Bolshe4ILI5(int[] array)
     }
     if(count1>=count2)
     {
-        return "yes";
+        return "Yes";
     }
     else
     {
-    return "no";
+    return "No";
     }
     
 }
@@ -63,5 +63,5 @@ Console.WriteLine("Василий получил четверку в эти дн
 Chetnie(array);
 Console.WriteLine(" \nВасилий получил тройку в эти дни: ");
 Nechetnie(array);
-System.Console.WriteLine($"\n{Bolshe4ILI5(array)}");
+System.Console.WriteLine($"\nМожет ли Василий рассчитывать на четверку?\n{Bolshe4ILI5(array)}");
 //  Василий вполне может получить несколько оценок в один день, верно же?)
