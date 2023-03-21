@@ -1,0 +1,15 @@
+/Users/wv/Desktop/Учеба/HomeWorkC/Vasya4and5/obj/Debug/net7.0/Vasya4and5.csproj.AssemblyReference.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/Vasya4and5/obj/Debug/net7.0/Vasya4and5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wv/Desktop/Учеба/HomeWorkC/Vasya4and5/obj/Debug/net7.0/Vasya4and5.AssemblyInfoInputs.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/Vasya4and5/obj/Debug/net7.0/Vasya4and5.AssemblyInfo.cs
+/Users/wv/Desktop/Учеба/HomeWorkC/Vasya4and5/obj/Debug/net7.0/Vasya4and5.csproj.CoreCompileInputs.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/Vasya4and5/bin/Debug/net7.0/Vasya4and5
+/Users/wv/Desktop/Учеба/HomeWorkC/Vasya4and5/bin/Debug/net7.0/Vasya4and5.deps.json
+/Users/wv/Desktop/Учеба/HomeWorkC/Vasya4and5/bin/Debug/net7.0/Vasya4and5.runtimeconfig.json
+/Users/wv/Desktop/Учеба/HomeWorkC/Vasya4and5/bin/Debug/net7.0/Vasya4and5.dll
+/Users/wv/Desktop/Учеба/HomeWorkC/Vasya4and5/bin/Debug/net7.0/Vasya4and5.pdb
+/Users/wv/Desktop/Учеба/HomeWorkC/Vasya4and5/obj/Debug/net7.0/Vasya4and5.dll
+/Users/wv/Desktop/Учеба/HomeWorkC/Vasya4and5/obj/Debug/net7.0/refint/Vasya4and5.dll
+/Users/wv/Desktop/Учеба/HomeWorkC/Vasya4and5/obj/Debug/net7.0/Vasya4and5.pdb
+/Users/wv/Desktop/Учеба/HomeWorkC/Vasya4and5/obj/Debug/net7.0/Vasya4and5.genruntimeconfig.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/Vasya4and5/obj/Debug/net7.0/ref/Vasya4and5.dll
