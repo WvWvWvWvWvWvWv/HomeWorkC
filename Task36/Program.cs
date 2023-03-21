@@ -21,4 +21,4 @@ Console.Clear();
 int[] array = new int[5];
 InputArray(array);
 System.Console.WriteLine($"array: [{string.Join(" , " , array)}]");
-System.Console.WriteLine(SumNechet(array));
+System.Console.WriteLine($"Сумма элементов на нечетных позициях: {SumNechet(array)}");
