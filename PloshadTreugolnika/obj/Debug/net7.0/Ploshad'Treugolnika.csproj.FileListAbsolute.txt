@@ -1,0 +1,15 @@
+/Users/wv/Desktop/Учеба/HomeWorkC/Ploshad'Treugolnika/obj/Debug/net7.0/Ploshad'Treugolnika.csproj.AssemblyReference.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/Ploshad'Treugolnika/obj/Debug/net7.0/Ploshad'Treugolnika.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wv/Desktop/Учеба/HomeWorkC/Ploshad'Treugolnika/obj/Debug/net7.0/Ploshad'Treugolnika.AssemblyInfoInputs.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/Ploshad'Treugolnika/obj/Debug/net7.0/Ploshad'Treugolnika.AssemblyInfo.cs
+/Users/wv/Desktop/Учеба/HomeWorkC/Ploshad'Treugolnika/obj/Debug/net7.0/Ploshad'Treugolnika.csproj.CoreCompileInputs.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/Ploshad'Treugolnika/bin/Debug/net7.0/Ploshad'Treugolnika
+/Users/wv/Desktop/Учеба/HomeWorkC/Ploshad'Treugolnika/bin/Debug/net7.0/Ploshad'Treugolnika.deps.json
+/Users/wv/Desktop/Учеба/HomeWorkC/Ploshad'Treugolnika/bin/Debug/net7.0/Ploshad'Treugolnika.runtimeconfig.json
+/Users/wv/Desktop/Учеба/HomeWorkC/Ploshad'Treugolnika/bin/Debug/net7.0/Ploshad'Treugolnika.dll
+/Users/wv/Desktop/Учеба/HomeWorkC/Ploshad'Treugolnika/bin/Debug/net7.0/Ploshad'Treugolnika.pdb
+/Users/wv/Desktop/Учеба/HomeWorkC/Ploshad'Treugolnika/obj/Debug/net7.0/Ploshad'Treugolnika.dll
+/Users/wv/Desktop/Учеба/HomeWorkC/Ploshad'Treugolnika/obj/Debug/net7.0/refint/Ploshad'Treugolnika.dll
+/Users/wv/Desktop/Учеба/HomeWorkC/Ploshad'Treugolnika/obj/Debug/net7.0/Ploshad'Treugolnika.pdb
+/Users/wv/Desktop/Учеба/HomeWorkC/Ploshad'Treugolnika/obj/Debug/net7.0/Ploshad'Treugolnika.genruntimeconfig.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/Ploshad'Treugolnika/obj/Debug/net7.0/ref/Ploshad'Treugolnika.dll
