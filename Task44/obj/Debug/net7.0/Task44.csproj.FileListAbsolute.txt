@@ -1,0 +1,15 @@
+/Users/wv/Desktop/Учеба/HomeWorkC/Task44/obj/Debug/net7.0/Task44.csproj.AssemblyReference.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/Task44/obj/Debug/net7.0/Task44.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wv/Desktop/Учеба/HomeWorkC/Task44/obj/Debug/net7.0/Task44.AssemblyInfoInputs.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/Task44/obj/Debug/net7.0/Task44.AssemblyInfo.cs
+/Users/wv/Desktop/Учеба/HomeWorkC/Task44/obj/Debug/net7.0/Task44.csproj.CoreCompileInputs.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/Task44/bin/Debug/net7.0/Task44
+/Users/wv/Desktop/Учеба/HomeWorkC/Task44/bin/Debug/net7.0/Task44.deps.json
+/Users/wv/Desktop/Учеба/HomeWorkC/Task44/bin/Debug/net7.0/Task44.runtimeconfig.json
+/Users/wv/Desktop/Учеба/HomeWorkC/Task44/bin/Debug/net7.0/Task44.dll
+/Users/wv/Desktop/Учеба/HomeWorkC/Task44/bin/Debug/net7.0/Task44.pdb
+/Users/wv/Desktop/Учеба/HomeWorkC/Task44/obj/Debug/net7.0/Task44.dll
+/Users/wv/Desktop/Учеба/HomeWorkC/Task44/obj/Debug/net7.0/refint/Task44.dll
+/Users/wv/Desktop/Учеба/HomeWorkC/Task44/obj/Debug/net7.0/Task44.pdb
+/Users/wv/Desktop/Учеба/HomeWorkC/Task44/obj/Debug/net7.0/Task44.genruntimeconfig.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/Task44/obj/Debug/net7.0/ref/Task44.dll

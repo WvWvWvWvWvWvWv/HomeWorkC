@@ -1,0 +1,15 @@
+/Users/wv/Desktop/Учеба/HomeWorkC/Task39/obj/Debug/net7.0/Task39.csproj.AssemblyReference.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/Task39/obj/Debug/net7.0/Task39.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wv/Desktop/Учеба/HomeWorkC/Task39/obj/Debug/net7.0/Task39.AssemblyInfoInputs.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/Task39/obj/Debug/net7.0/Task39.AssemblyInfo.cs
+/Users/wv/Desktop/Учеба/HomeWorkC/Task39/obj/Debug/net7.0/Task39.csproj.CoreCompileInputs.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/Task39/bin/Debug/net7.0/Task39
+/Users/wv/Desktop/Учеба/HomeWorkC/Task39/bin/Debug/net7.0/Task39.deps.json
+/Users/wv/Desktop/Учеба/HomeWorkC/Task39/bin/Debug/net7.0/Task39.runtimeconfig.json
+/Users/wv/Desktop/Учеба/HomeWorkC/Task39/bin/Debug/net7.0/Task39.dll
+/Users/wv/Desktop/Учеба/HomeWorkC/Task39/bin/Debug/net7.0/Task39.pdb
+/Users/wv/Desktop/Учеба/HomeWorkC/Task39/obj/Debug/net7.0/Task39.dll
+/Users/wv/Desktop/Учеба/HomeWorkC/Task39/obj/Debug/net7.0/refint/Task39.dll
+/Users/wv/Desktop/Учеба/HomeWorkC/Task39/obj/Debug/net7.0/Task39.pdb
+/Users/wv/Desktop/Учеба/HomeWorkC/Task39/obj/Debug/net7.0/Task39.genruntimeconfig.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/Task39/obj/Debug/net7.0/ref/Task39.dll
