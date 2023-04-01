@@ -14,7 +14,7 @@ int n = int.Parse(Console.ReadLine()!);
 int[] array = new int [n];
 AddArray(array);
 int countplus=0;
-int countminus=0;
+//int countminus=0;
     for (int i = 0; i < array.Length; i++)
     {
         if(array[i]>0)

@@ -1,53 +1,54 @@
 ﻿void InputArray(int[] array)
 {
     for (int i = 0; i < array.Length; i++)
-        array[i] = new Random().Next(1 , 32);
+        array[i] = new Random().Next(1, 32);
 }
 
-void Chetnie(int [] array)
+void Chetnie(int[] array)
 {
-    for( int i = 0; i < array.Length; i++)
+    for (int i = 0; i < array.Length; i++)
     {
-        if ( array[i]%2==0)
+        if (array[i] % 2 == 0)
         {
             System.Console.Write($"{array[i]} ");
         }
     }
 }
-void Nechetnie(int [] array)
+void Nechetnie(int[] array)
 {
-    for( int i = 0; i < array.Length; i++)
+    for (int i = 0; i < array.Length; i++)
     {
-        if ( array[i]%2!=0)
+        if (array[i] % 2 != 0)
         {
             System.Console.Write($"{array[i]} ");
         }
     }
 }
 string Bolshe4ILI5(int[] array)
-{   int count1=0;
-    int count2=0;
+{
+    int count1 = 0;
+    int count2 = 0;
     for (int i = 0; i < array.Length; i++)
-    
+
     {
-        if (array[i]%2==0)
-        {   
-            count1+=1;
+        if (array[i] % 2 == 0)
+        {
+            count1 += 1;
         }
-        if (array[i]%2!=0)
-        {   
-            count2+=1;
+        if (array[i] % 2 != 0)
+        {
+            count2 += 1;
         }
     }
-    if(count1>=count2)
+    if (count1 >= count2)
     {
         return "Yes";
     }
     else
     {
-    return "No";
+        return "No";
     }
-    
+
 }
 
 
@@ -58,7 +59,7 @@ System.Console.WriteLine("Введите число: ");
 int a = Convert.ToInt32(Console.ReadLine());
 int[] array = new int[a];
 InputArray(array);
-System.Console.WriteLine($"Дни, когда Василий получил оценки : [{string.Join(" , " , array)}]");
+System.Console.WriteLine($"Дни, когда Василий получил оценки : [{string.Join(" , ", array)}]");
 Console.WriteLine("Василий получил четверку в эти дни: ");
 Chetnie(array);
 Console.WriteLine(" \nВасилий получил тройку в эти дни: ");
@@ -108,7 +109,7 @@ System.Console.WriteLine($"\nМожет ли Василий рассчитыва
 // {   int count1=0;
 //     int count2=0;
 //     for (int i = 0; i < array.Length; i++)
-    
+
 //     {
 //         if (array[i]%2==0)
 //         {   
@@ -127,7 +128,7 @@ System.Console.WriteLine($"\nМожет ли Василий рассчитыва
 //     {
 //     return "No";
 //     }
-    
+
 // }
 // Console.Clear();
 // System.Console.WriteLine("Сколько оценок получил Вася? ");
