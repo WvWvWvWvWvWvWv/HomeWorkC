@@ -1,0 +1,15 @@
+/Users/wv/Desktop/Учеба/HomeWorkC/Transportirovanie/obj/Debug/net7.0/Transportirovanie.csproj.AssemblyReference.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/Transportirovanie/obj/Debug/net7.0/Transportirovanie.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wv/Desktop/Учеба/HomeWorkC/Transportirovanie/obj/Debug/net7.0/Transportirovanie.AssemblyInfoInputs.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/Transportirovanie/obj/Debug/net7.0/Transportirovanie.AssemblyInfo.cs
+/Users/wv/Desktop/Учеба/HomeWorkC/Transportirovanie/obj/Debug/net7.0/Transportirovanie.csproj.CoreCompileInputs.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/Transportirovanie/bin/Debug/net7.0/Transportirovanie
+/Users/wv/Desktop/Учеба/HomeWorkC/Transportirovanie/bin/Debug/net7.0/Transportirovanie.deps.json
+/Users/wv/Desktop/Учеба/HomeWorkC/Transportirovanie/bin/Debug/net7.0/Transportirovanie.runtimeconfig.json
+/Users/wv/Desktop/Учеба/HomeWorkC/Transportirovanie/bin/Debug/net7.0/Transportirovanie.dll
+/Users/wv/Desktop/Учеба/HomeWorkC/Transportirovanie/bin/Debug/net7.0/Transportirovanie.pdb
+/Users/wv/Desktop/Учеба/HomeWorkC/Transportirovanie/obj/Debug/net7.0/Transportirovanie.dll
+/Users/wv/Desktop/Учеба/HomeWorkC/Transportirovanie/obj/Debug/net7.0/refint/Transportirovanie.dll
+/Users/wv/Desktop/Учеба/HomeWorkC/Transportirovanie/obj/Debug/net7.0/Transportirovanie.pdb
+/Users/wv/Desktop/Учеба/HomeWorkC/Transportirovanie/obj/Debug/net7.0/Transportirovanie.genruntimeconfig.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/Transportirovanie/obj/Debug/net7.0/ref/Transportirovanie.dll
