@@ -1,0 +1,15 @@
+/Users/wv/Desktop/Учеба/HomeWorkC/MishaNegative/obj/Debug/net7.0/MishaNegative.csproj.AssemblyReference.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/MishaNegative/obj/Debug/net7.0/MishaNegative.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wv/Desktop/Учеба/HomeWorkC/MishaNegative/obj/Debug/net7.0/MishaNegative.AssemblyInfoInputs.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/MishaNegative/obj/Debug/net7.0/MishaNegative.AssemblyInfo.cs
+/Users/wv/Desktop/Учеба/HomeWorkC/MishaNegative/obj/Debug/net7.0/MishaNegative.csproj.CoreCompileInputs.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/MishaNegative/bin/Debug/net7.0/MishaNegative
+/Users/wv/Desktop/Учеба/HomeWorkC/MishaNegative/bin/Debug/net7.0/MishaNegative.deps.json
+/Users/wv/Desktop/Учеба/HomeWorkC/MishaNegative/bin/Debug/net7.0/MishaNegative.runtimeconfig.json
+/Users/wv/Desktop/Учеба/HomeWorkC/MishaNegative/bin/Debug/net7.0/MishaNegative.dll
+/Users/wv/Desktop/Учеба/HomeWorkC/MishaNegative/bin/Debug/net7.0/MishaNegative.pdb
+/Users/wv/Desktop/Учеба/HomeWorkC/MishaNegative/obj/Debug/net7.0/MishaNegative.dll
+/Users/wv/Desktop/Учеба/HomeWorkC/MishaNegative/obj/Debug/net7.0/refint/MishaNegative.dll
+/Users/wv/Desktop/Учеба/HomeWorkC/MishaNegative/obj/Debug/net7.0/MishaNegative.pdb
+/Users/wv/Desktop/Учеба/HomeWorkC/MishaNegative/obj/Debug/net7.0/MishaNegative.genruntimeconfig.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/MishaNegative/obj/Debug/net7.0/ref/MishaNegative.dll
