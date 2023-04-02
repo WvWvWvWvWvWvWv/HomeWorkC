@@ -1,0 +1,15 @@
+/Users/wv/Desktop/Учеба/HomeWorkC/Task46/bin/Debug/net7.0/Task46
+/Users/wv/Desktop/Учеба/HomeWorkC/Task46/bin/Debug/net7.0/Task46.deps.json
+/Users/wv/Desktop/Учеба/HomeWorkC/Task46/bin/Debug/net7.0/Task46.runtimeconfig.json
+/Users/wv/Desktop/Учеба/HomeWorkC/Task46/bin/Debug/net7.0/Task46.dll
+/Users/wv/Desktop/Учеба/HomeWorkC/Task46/bin/Debug/net7.0/Task46.pdb
+/Users/wv/Desktop/Учеба/HomeWorkC/Task46/obj/Debug/net7.0/Task46.csproj.AssemblyReference.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/Task46/obj/Debug/net7.0/Task46.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wv/Desktop/Учеба/HomeWorkC/Task46/obj/Debug/net7.0/Task46.AssemblyInfoInputs.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/Task46/obj/Debug/net7.0/Task46.AssemblyInfo.cs
+/Users/wv/Desktop/Учеба/HomeWorkC/Task46/obj/Debug/net7.0/Task46.csproj.CoreCompileInputs.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/Task46/obj/Debug/net7.0/Task46.dll
+/Users/wv/Desktop/Учеба/HomeWorkC/Task46/obj/Debug/net7.0/refint/Task46.dll
+/Users/wv/Desktop/Учеба/HomeWorkC/Task46/obj/Debug/net7.0/Task46.pdb
+/Users/wv/Desktop/Учеба/HomeWorkC/Task46/obj/Debug/net7.0/Task46.genruntimeconfig.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/Task46/obj/Debug/net7.0/ref/Task46.dll

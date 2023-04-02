@@ -1,0 +1,15 @@
+/Users/wv/Desktop/Учеба/HomeWorkC/Task51/bin/Debug/net7.0/Task51
+/Users/wv/Desktop/Учеба/HomeWorkC/Task51/bin/Debug/net7.0/Task51.deps.json
+/Users/wv/Desktop/Учеба/HomeWorkC/Task51/bin/Debug/net7.0/Task51.runtimeconfig.json
+/Users/wv/Desktop/Учеба/HomeWorkC/Task51/bin/Debug/net7.0/Task51.dll
+/Users/wv/Desktop/Учеба/HomeWorkC/Task51/bin/Debug/net7.0/Task51.pdb
+/Users/wv/Desktop/Учеба/HomeWorkC/Task51/obj/Debug/net7.0/Task51.csproj.AssemblyReference.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/Task51/obj/Debug/net7.0/Task51.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wv/Desktop/Учеба/HomeWorkC/Task51/obj/Debug/net7.0/Task51.AssemblyInfoInputs.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/Task51/obj/Debug/net7.0/Task51.AssemblyInfo.cs
+/Users/wv/Desktop/Учеба/HomeWorkC/Task51/obj/Debug/net7.0/Task51.csproj.CoreCompileInputs.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/Task51/obj/Debug/net7.0/Task51.dll
+/Users/wv/Desktop/Учеба/HomeWorkC/Task51/obj/Debug/net7.0/refint/Task51.dll
+/Users/wv/Desktop/Учеба/HomeWorkC/Task51/obj/Debug/net7.0/Task51.pdb
+/Users/wv/Desktop/Учеба/HomeWorkC/Task51/obj/Debug/net7.0/Task51.genruntimeconfig.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/Task51/obj/Debug/net7.0/ref/Task51.dll
