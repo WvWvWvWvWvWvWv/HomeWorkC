@@ -1,0 +1,15 @@
+/Users/wv/Desktop/Учеба/HomeWorkC/Task47/obj/Debug/net7.0/Task47.csproj.AssemblyReference.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/Task47/obj/Debug/net7.0/Task47.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wv/Desktop/Учеба/HomeWorkC/Task47/obj/Debug/net7.0/Task47.AssemblyInfoInputs.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/Task47/obj/Debug/net7.0/Task47.AssemblyInfo.cs
+/Users/wv/Desktop/Учеба/HomeWorkC/Task47/obj/Debug/net7.0/Task47.csproj.CoreCompileInputs.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/Task47/bin/Debug/net7.0/Task47
+/Users/wv/Desktop/Учеба/HomeWorkC/Task47/bin/Debug/net7.0/Task47.deps.json
+/Users/wv/Desktop/Учеба/HomeWorkC/Task47/bin/Debug/net7.0/Task47.runtimeconfig.json
+/Users/wv/Desktop/Учеба/HomeWorkC/Task47/bin/Debug/net7.0/Task47.dll
+/Users/wv/Desktop/Учеба/HomeWorkC/Task47/bin/Debug/net7.0/Task47.pdb
+/Users/wv/Desktop/Учеба/HomeWorkC/Task47/obj/Debug/net7.0/Task47.dll
+/Users/wv/Desktop/Учеба/HomeWorkC/Task47/obj/Debug/net7.0/refint/Task47.dll
+/Users/wv/Desktop/Учеба/HomeWorkC/Task47/obj/Debug/net7.0/Task47.pdb
+/Users/wv/Desktop/Учеба/HomeWorkC/Task47/obj/Debug/net7.0/Task47.genruntimeconfig.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/Task47/obj/Debug/net7.0/ref/Task47.dll
