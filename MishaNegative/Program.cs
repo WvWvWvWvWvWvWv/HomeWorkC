@@ -5,7 +5,7 @@
         for (int j = 0; j < matrix.GetLength(1); j++)
         {
             Console.Write("[" + i + "," + j + "]: ");
-            matrix[i, j] = (Console.ReadLine());
+            matrix[i, j] = (Console.ReadLine()!);
         }
     }
 }

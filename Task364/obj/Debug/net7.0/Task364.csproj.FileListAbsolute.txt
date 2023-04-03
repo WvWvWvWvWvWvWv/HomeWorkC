@@ -1,0 +1,15 @@
+/Users/wv/Desktop/Учеба/HomeWorkC/Task364/bin/Debug/net7.0/Task364
+/Users/wv/Desktop/Учеба/HomeWorkC/Task364/bin/Debug/net7.0/Task364.deps.json
+/Users/wv/Desktop/Учеба/HomeWorkC/Task364/bin/Debug/net7.0/Task364.runtimeconfig.json
+/Users/wv/Desktop/Учеба/HomeWorkC/Task364/bin/Debug/net7.0/Task364.dll
+/Users/wv/Desktop/Учеба/HomeWorkC/Task364/bin/Debug/net7.0/Task364.pdb
+/Users/wv/Desktop/Учеба/HomeWorkC/Task364/obj/Debug/net7.0/Task364.csproj.AssemblyReference.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/Task364/obj/Debug/net7.0/Task364.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wv/Desktop/Учеба/HomeWorkC/Task364/obj/Debug/net7.0/Task364.AssemblyInfoInputs.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/Task364/obj/Debug/net7.0/Task364.AssemblyInfo.cs
+/Users/wv/Desktop/Учеба/HomeWorkC/Task364/obj/Debug/net7.0/Task364.csproj.CoreCompileInputs.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/Task364/obj/Debug/net7.0/Task364.dll
+/Users/wv/Desktop/Учеба/HomeWorkC/Task364/obj/Debug/net7.0/refint/Task364.dll
+/Users/wv/Desktop/Учеба/HomeWorkC/Task364/obj/Debug/net7.0/Task364.pdb
+/Users/wv/Desktop/Учеба/HomeWorkC/Task364/obj/Debug/net7.0/Task364.genruntimeconfig.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/Task364/obj/Debug/net7.0/ref/Task364.dll
