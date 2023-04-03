@@ -1,4 +1,4 @@
-﻿// Не решил, работает лишь при квадратном массиве.
+﻿// Не решил.
 void ZapolnenieMatrix(int[,] matrix)
 {
     int i = 0, j = 0, value = 0;
@@ -13,16 +13,17 @@ void ZapolnenieMatrix(int[,] matrix)
             value++; i++; j--;
         }
     }
+    j = matrix.GetLength(1) - 1;
     for (int d = 1; d < matrix.GetLength(0); d++)
     {
-        i = matrix.GetLength(0) - 1;
-        j = d;
-        while (j <= matrix.GetLength(0) - 1)
+        i = d;
+        while (j >= 1)
         {
             matrix[i, j] = value;
-            value++; i--; j++;
+            value++; i++; j--;
         }
     }
+
 
 }
 
