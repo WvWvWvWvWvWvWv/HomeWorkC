@@ -1,26 +1,44 @@
-﻿// Не решил.
-void ZapolnenieMatrix(int[,] matrix)
+﻿void ZapolnenieMatrix(int[,] matrix)
 {
     int i = 0, j = 0, value = 0;
-    for (int d = 0; d < matrix.GetLength(0); d++)
+    for (int d = 0; d < matrix.GetLength(1); d++)
     {
         i = 0;
         j = d;
 
         while (j >= 0)
         {
-            matrix[i, j] = value;
-            value++; i++; j--;
+            if (matrix[i, j] == 0)
+            {
+                matrix[i, j] = value;
+                value++;
+            }
+            j--;
+
+            if (i < matrix.GetLength(0) - 1)
+            {
+                i++;
+            }
         }
     }
-    j = matrix.GetLength(1) - 1;
     for (int d = 1; d < matrix.GetLength(0); d++)
     {
         i = d;
-        while (j >= 1)
+        j = matrix.GetLength(1) - 1;
+
+        while (j >= d)
         {
-            matrix[i, j] = value;
-            value++; i++; j--;
+            if (matrix[i, j] == 0)
+            {
+                matrix[i, j] = value;
+                value++;
+            }
+            j--;
+
+            if (i < matrix.GetLength(0) - 1)
+            {
+                i++;
+            }
         }
     }
 
