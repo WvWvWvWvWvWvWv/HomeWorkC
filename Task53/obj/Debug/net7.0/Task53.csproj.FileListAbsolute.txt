@@ -1,0 +1,15 @@
+/Users/wv/Desktop/Учеба/HomeWorkC/Task53/obj/Debug/net7.0/Task53.csproj.AssemblyReference.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/Task53/obj/Debug/net7.0/Task53.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wv/Desktop/Учеба/HomeWorkC/Task53/obj/Debug/net7.0/Task53.AssemblyInfoInputs.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/Task53/obj/Debug/net7.0/Task53.AssemblyInfo.cs
+/Users/wv/Desktop/Учеба/HomeWorkC/Task53/obj/Debug/net7.0/Task53.csproj.CoreCompileInputs.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/Task53/bin/Debug/net7.0/Task53
+/Users/wv/Desktop/Учеба/HomeWorkC/Task53/bin/Debug/net7.0/Task53.deps.json
+/Users/wv/Desktop/Учеба/HomeWorkC/Task53/bin/Debug/net7.0/Task53.runtimeconfig.json
+/Users/wv/Desktop/Учеба/HomeWorkC/Task53/bin/Debug/net7.0/Task53.dll
+/Users/wv/Desktop/Учеба/HomeWorkC/Task53/bin/Debug/net7.0/Task53.pdb
+/Users/wv/Desktop/Учеба/HomeWorkC/Task53/obj/Debug/net7.0/Task53.dll
+/Users/wv/Desktop/Учеба/HomeWorkC/Task53/obj/Debug/net7.0/refint/Task53.dll
+/Users/wv/Desktop/Учеба/HomeWorkC/Task53/obj/Debug/net7.0/Task53.pdb
+/Users/wv/Desktop/Учеба/HomeWorkC/Task53/obj/Debug/net7.0/Task53.genruntimeconfig.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/Task53/obj/Debug/net7.0/ref/Task53.dll
