@@ -1,0 +1,15 @@
+/Users/wv/Desktop/Учеба/HomeWorkC/Task68/obj/Debug/net7.0/Task68.csproj.AssemblyReference.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/Task68/obj/Debug/net7.0/Task68.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wv/Desktop/Учеба/HomeWorkC/Task68/obj/Debug/net7.0/Task68.AssemblyInfoInputs.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/Task68/obj/Debug/net7.0/Task68.AssemblyInfo.cs
+/Users/wv/Desktop/Учеба/HomeWorkC/Task68/obj/Debug/net7.0/Task68.csproj.CoreCompileInputs.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/Task68/bin/Debug/net7.0/Task68
+/Users/wv/Desktop/Учеба/HomeWorkC/Task68/bin/Debug/net7.0/Task68.deps.json
+/Users/wv/Desktop/Учеба/HomeWorkC/Task68/bin/Debug/net7.0/Task68.runtimeconfig.json
+/Users/wv/Desktop/Учеба/HomeWorkC/Task68/bin/Debug/net7.0/Task68.dll
+/Users/wv/Desktop/Учеба/HomeWorkC/Task68/bin/Debug/net7.0/Task68.pdb
+/Users/wv/Desktop/Учеба/HomeWorkC/Task68/obj/Debug/net7.0/Task68.dll
+/Users/wv/Desktop/Учеба/HomeWorkC/Task68/obj/Debug/net7.0/refint/Task68.dll
+/Users/wv/Desktop/Учеба/HomeWorkC/Task68/obj/Debug/net7.0/Task68.pdb
+/Users/wv/Desktop/Учеба/HomeWorkC/Task68/obj/Debug/net7.0/Task68.genruntimeconfig.cache
+/Users/wv/Desktop/Учеба/HomeWorkC/Task68/obj/Debug/net7.0/ref/Task68.dll
